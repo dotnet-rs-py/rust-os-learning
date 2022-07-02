@@ -8,3 +8,10 @@
 - 安装Rust环境（VSCode + rust-analyzer）
 - 认识Cargo
 - Hello world | "世界，你好"
+
+
+## Day 2 2022/7/2
+
+- 修改Rust的下载镜像地址
+- 变量绑定与解构
+
