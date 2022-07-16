@@ -143,3 +143,17 @@
         - break
         - while 循环
         - loop 循环
+
+## Day 12 2022/7/16
+- 模式匹配
+    - match 匹配
+        - 模式绑定
+        - 穷尽匹配
+        - _ 通配符
+    - if let 匹配
+    - while let 条件循环
+    - matches!宏
+    - 变量覆盖
+    - 解构Option
+        - 匹配 Option<T>
+    - 可驳模式和不可驳模式
